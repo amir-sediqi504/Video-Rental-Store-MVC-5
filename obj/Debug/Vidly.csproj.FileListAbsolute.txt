@@ -74,3 +74,4 @@ C:\Users\amirs\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInput
 C:\Users\amirs\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\amirs\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\amirs\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\amirs\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.seedUsers.resources
